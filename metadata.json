@@ -1,0 +1,6 @@
+{
+  "name": "Bright Minds Coaching Classes",
+  "description": "Premier academic coaching from Jr. KG to 12th and certified Brainobrain Abacus cognitive acceleration center in Karanjade, Panvel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
